@@ -1,5 +1,5 @@
 Summary:	Wake On LAN client
-Summary(pl):	Klient Budzenia Przez Sieæ
+Summary(pl):	Klient budzenia przez sieæ
 Name:		wol
 Version:	0.7.1
 Release:	1
@@ -15,8 +15,8 @@ wol (Wake On LAN) wakes up magic packet compliant machines such as
 boxes with wake-on-LAN ethernet cards.
 
 %description -l pl
-wol (Budzenie Przez Sieæ) budzi maszyny zgodne z magicznym pakietem takie
-jak komputery z kartami sieciowymi z mo¿liwo¶ci± budzenia-przez-Sieæ
+wol (budzenie przez sieæ) budzi maszyny zgodne z magicznym pakietem takie
+jak komputery z kartami sieciowymi z mo¿liwo¶ci± budzenia-przez-sieæ.
 
 %prep
 %setup -q
