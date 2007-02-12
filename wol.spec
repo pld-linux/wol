@@ -1,5 +1,5 @@
 Summary:	Wake On LAN client
-Summary(pl.UTF-8):   Klient budzenia przez sieć
+Summary(pl.UTF-8):	Klient budzenia przez sieć
 Name:		wol
 Version:	0.7.1
 Release:	1
